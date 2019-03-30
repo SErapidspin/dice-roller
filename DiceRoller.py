@@ -1,6 +1,5 @@
 import asyncio
 import discord
-from tinydb import TinyDB, Query, where
 import random
 import os
 import re
